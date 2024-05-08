@@ -1,10 +1,23 @@
 # awesome_docker_cn
-Collect the docker-compose.yml from open source project ,and add some deployment guide
 
-从开源项目中收集docker-compose.yml，并添加一些部署指南
+本项目为个人收集的可使用docker部署的项目合集，因为是NAS玩家，喜爱折腾NAS和docker项目，同时经营有自媒体，索性将日常发现、更新的项目进行整合发布，供有需要的朋友查阅。
 
-本项目为个人收集各种各样的开源项目中的docker、docker-compose、dockerfile文件。
+每一个项目都包含**项目地址**、**部署教程**，相关资料链接请下载**docker.xlsx**。
 
-项目按照使用途径分类，包含compose.yml，dockerfile，.env，部署教程，方便所有人使用、安装。
+本项目更新时间不定，欢迎大家关注我的公众号或首发平台。
 
-部署教程除原创外，非原创部分会征求作者意见后一并发布，并附上作者的平台信息。
+此外，因个人时间和能力有限，很多优秀的项目都无法及时获取，如果喜欢本项目，欢迎大家添砖加瓦，联系我添加更多有意思的docker自托管项目。
+
+---------------------------------
+项目介绍：
+
+![1715152882400](https://github.com/coracoo/awesome_docker_cn/assets/120569020/c65c8a0e-1728-4cab-ad08-783ee870d06c)
+
+---------------------------------
+联系我：
+
+![1715152968858](https://github.com/coracoo/awesome_docker_cn/assets/120569020/1d228b96-f80f-4bf4-b155-224f1d1b0fef)
+
+交流群：
+
+![image](https://github.com/coracoo/awesome_docker_cn/assets/120569020/660b7f86-5673-4b40-8bf0-ec4c11e30b20)
