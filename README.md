@@ -165,4 +165,5 @@
 
 交流群：
 
-![image](https://github.com/coracoo/awesome_docker_cn/assets/120569020/660b7f86-5673-4b40-8bf0-ec4c11e30b20)
+QQ交流一群：670661706
+微信群可以通过公众号获取
