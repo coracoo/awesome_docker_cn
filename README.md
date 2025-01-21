@@ -8,7 +8,7 @@
 
 什么值得买：https://zhiyou.smzdm.com/member/9674309982/
 
-4、更新时间：
+4、更新记录（不再按名字排序，最新的更新在最下面）：
 
 > 2025.1.21更新
 >
@@ -384,6 +384,7 @@
 ## 网络工具
 
 | 项目名称 | 类型 | 介绍 | 项目地址 | 教程地址 | 备注 |
+|:--- |:--- |:--- |:--- |:--- |:---  |
 | Slash | 短连接 | 网址短链接工具，包含了书签管理与连接分享功能 | [项目地址](https://github.com/toss/slash) | [教程地址](https://post.smzdm.com/p/a8pkm257/) | 浏览器扩展 |
 | Yourls | 短连接 | 网站短链接生成 | [项目地址](https://github.com/YOURLS/YOURLS) | [教程地址](https://post.smzdm.com/p/a6pmelqg/) |  |
 | NginxWebui | 网络 | 基于Nginx开发的可视化配置工具 | [项目地址](https://github.com/cym1102/nginxWebUI) | [教程地址](https://post.smzdm.com/p/aeq473oz/) |  |
