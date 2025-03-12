@@ -87,7 +87,7 @@
 | Cosmos-Server | 容器系统 | 一款NAS操作系统，集成应用商城、容器管理、导航栏，着重针对容器间的安全访问策略，实现一个端口访问所有容器 | [项目地址](https://github.com/azukaar/Cosmos-Server) | [教程地址](https://post.smzdm.com/p/an9expp7/) |  |
 | IstoreNAS | NAS系统 | 基于openwrt的开源nas操作系统 | [项目地址](https://fw.koolcenter.com/iStoreNAS/) | [教程地址](https://post.smzdm.com/p/a4x7k2k8/) |  |
 | UmbrelOS | 容器系统 | 一款全新的NAS操作系统，集成应用商城、容器管理、导航栏 | [项目地址](https://github.com/getumbrel/umbrel) | [教程地址](https://post.smzdm.com/p/a5xmk243/) | 官方小主机 |
-| fmOS | NAS系统 | 免费的国产NAS操作系统 | [项目地址](https://www.fnnas.com/) | [教程地址](https://post.smzdm.com/p/a5xge4ek/) |  |
+| fnOS | NAS系统 | 免费的国产NAS操作系统 | [项目地址](https://www.fnnas.com/) | [教程地址](https://post.smzdm.com/p/a5xge4ek/) |  |
 |  |
 
 
