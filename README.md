@@ -11,7 +11,7 @@
 4、更新记录（不再按名字排序，最新的更新在最下面）：
 
 > 2025.1.21更新
->
+> 2025.3.13更新了6个项目
 
 5、因个人时间和能力有限，很多优秀的项目都无法及时获取，如果有更好的项目补充的，**可提issue**
 
@@ -87,7 +87,7 @@
 | Cosmos-Server | 容器系统 | 一款NAS操作系统，集成应用商城、容器管理、导航栏，着重针对容器间的安全访问策略，实现一个端口访问所有容器 | [项目地址](https://github.com/azukaar/Cosmos-Server) | [教程地址](https://post.smzdm.com/p/an9expp7/) |  |
 | IstoreNAS | NAS系统 | 基于openwrt的开源nas操作系统 | [项目地址](https://fw.koolcenter.com/iStoreNAS/) | [教程地址](https://post.smzdm.com/p/a4x7k2k8/) |  |
 | UmbrelOS | 容器系统 | 一款全新的NAS操作系统，集成应用商城、容器管理、导航栏 | [项目地址](https://github.com/getumbrel/umbrel) | [教程地址](https://post.smzdm.com/p/a5xmk243/) | 官方小主机 |
-| fmOS | NAS系统 | 免费的国产NAS操作系统 | [项目地址](https://www.fnnas.com/) | [教程地址](https://post.smzdm.com/p/a5xge4ek/) |  |
+| fnOS | NAS系统 | 免费的国产NAS操作系统 | [项目地址](https://www.fnnas.com/) | [教程地址](https://post.smzdm.com/p/a5xge4ek/) |  |
 |  |
 
 
@@ -151,6 +151,7 @@
 | Screego | 协作 | 基于 WebRTC 进行安全传输的屏幕共享 | [项目地址](https://github.com/screego/server) | [教程地址](https://post.smzdm.com/p/a0x5ol58/) |  |
 | Snipe-it | IT | IT设备、设施管理系统 | [项目地址](https://github.com/snipe/snipe-it) | [教程地址](https://post.smzdm.com/p/axovo3q2/) |  |
 | Superset | BI | 免费的BI系统、数据驾驶舱系统 | [项目地址](https://github.com/apache/superset) | [教程地址](https://post.smzdm.com/p/a5x706zk/) |  |
+| Tududi | 项目管理 | 一个极简的开源任务和项目管理工具 | [项目地址](https://github.com/chrisvel/tududi) | [教程地址](https://post.smzdm.com/p/a8p848zn/) |  |
 | Twenty | CRM | 高颜值跨平台的开源CRM项目，核心还在财务和客户管理 | [项目地址](https://github.com/twentyhq/twenty) | [教程地址](https://post.smzdm.com/p/a8pvk290/) | 客户端 |
 | Univer | Office | 支持在线excel、文档、ppt协作，google文档开源替代项目 | [项目地址](https://github.com/dream-num/univer) | [教程地址](https://post.smzdm.com/p/am3nzp5k/) |  |
 | Vikunja | TODO | 支持项目管理、团队管理、任务管理的todo应用，worklite开源替代项目 | [项目地址](https://github.com/go-vikunja/vikunja) | [教程地址](https://post.smzdm.com/p/an9pn760/) |  |
@@ -193,6 +194,7 @@
 | ChineseSubFinder | 字幕 | 中文字幕下载工具 | [项目地址](https://github.com/ChineseSubFinder/ChineseSubFinder) | [教程地址](https://post.smzdm.com/p/aqq5m787/) |  |
 | Douban-Tool（弃坑） | 影视 | 基于豆瓣想看的BT下载工具 | [项目地址](https://hub.docker.com/r/zack357/douban-tool) | [教程地址](https://post.smzdm.com/p/an94l6nv/) |  |
 | Feishin | 音乐 | 一款高颜值的音乐播放器前端 | [项目地址](https://github.com/jeffvli/feishin) | [教程地址](https://post.smzdm.com/p/a5xvek78/) |  |
+| Guovin_TV | IPTV | IPTV电视直播源更新项目，从Guovin_TV升级而来 | [项目地址](https://github.com/Guovin/iptv-api) | [教程地址](https://post.smzdm.com/p/arrz7p5w/) |  |
 | Namer | 刮削 | 欧美小姐姐作品重命名工具，方便刮削 | [项目地址](https://github.com/ThePornDatabase/namer) | [教程地址](https://post.smzdm.com/p/a5xvek78/) |  |
 | Melody | 音乐 | 基于网易云云盘的音乐下载工具 | [项目地址](https://github.com/olahol/melody) | [教程地址](https://post.smzdm.com/p/awop82zm/) |  |
 | Musicn | 音乐 | mp3音乐下载工具 | [项目地址](https://github.com/zonemeen/musicn) | [教程地址](https://post.smzdm.com/p/a7px95gl/) |  |
@@ -203,6 +205,7 @@
 | Xiaomusic | 音乐 | 小米/红米/小爱音箱第三方口令与音乐下载、播放工具 | [项目地址](https://github.com/hanxi/xiaomusic) | [教程地址](https://post.smzdm.com/p/avpe7n99/) | 基于小米音箱 |
 | Jellyfin | 影视 | N大的jellyfin国人版 | [项目地址](https://github.com/nyanmisaka) | [教程地址](https://post.smzdm.com/p/a7p8v8vl/) |  |
 | Navidrome | 音乐 | NAS上最好的音乐管理服务器 | [项目地址](https://github.com/navidrome/navidrome) | [教程地址](https://post.smzdm.com/p/akldn384/) |  |
+| NextBeats | 音乐 | 一款基于油管的lofi音乐流播放器 | [项目地址](https://github.com/btahir/next-beats) | [教程地址](https://post.smzdm.com/p/a7plrn05/) |  |
 | Music-Tag-Web | 音乐 | 最好用的音乐元数据刮削工具 | [项目地址](https://github.com/xhongc/music-tag-web) | [教程地址](https://post.smzdm.com/p/aovxg0d7/) |  |
 | Emby-Keeper | 影视 | emby公益服保号、注册等 | [项目地址](https://github.com/emby-keeper/emby-keeper) | [教程地址](https://post.smzdm.com/p/am33onqz/) |  |
 |  |
@@ -252,6 +255,7 @@
 | LocalAI | AI | 完全离线运行的本地AI大模型系统，支持抱脸虫上的各类库，支持api输出 | [项目地址](https://github.com/mudler/LocalAI) | [教程地址](https://post.smzdm.com/p/a3x3qngr/) |  |
 | Penpot | 生产力 | 好用好看的原型设计软件，Kaleidos的平替项目 | [项目地址](https://github.com/penpot/penpot) | [教程地址](https://post.smzdm.com/p/am3noxek/) |  |
 | QChatGPT | 机器人 | 支持AI接入的QQ/QQ频道/OneBot 机器人平台 | [项目地址](https://github.com/RockChinQ/QChatGPT) | [教程地址](https://post.smzdm.com/p/ag5z6lv6/) |  |
+| Rustpad | 生产力 | 一款开源协作文本编辑器，支持在浏览器中编写代码时进行实时协作 | [项目地址](https://github.com/ekzhang/rustpad) | [教程地址](https://post.smzdm.com/p/a2xp63vp/) |  |
 | Windows-docker | 生产力 | 在docker容器中运行windows系统 | [项目地址](https://github.com/dockur/windows) | [教程地址](https://post.smzdm.com/p/arre448q/) |  |
 | MinIO | 生产力 | 一款兼容S3的自托管对象存储 | [项目地址](https://github.com/minio/minio) | [教程地址](https://post.smzdm.com/p/apmmgo02/) |  |
 |  |
@@ -290,6 +294,7 @@
 | FreeFileSync | 同步 | 一款文件夹比较和同步软件，可创建和管理所有重要文件的备份副本  | [项目地址](https://github.com/jlesage/docker-freefilesync) | [教程地址](https://post.smzdm.com/p/aov74pkr//) |  |
 | MicroBin | 共享 | 稍后阅读，可设置次数、时间的资料共享 Web 应用程序 | [项目地址](https://github.com/szabodanika/microbin) | [教程地址](https://post.smzdm.com/p/apm2mo8x/) |  |
 | Verysync | 同步 | 微力同步，全平台的文件同步工具 | [项目地址](https://github.com/Jonnyan404/verysync) | [教程地址](https://post.smzdm.com/p/a96e832p/) |  |
+| QuickDrop | 文件共享 | 一款易于使用的文件共享应用程序，允许用户在没有帐户的情况下共享 | [项目地址](https://github.com/RoastSlav/quickdrop) | [教程地址](https://post.smzdm.com/p/a3x875pn/) |  |
 | Spacedrive | 文件管理 | 跨平台文件管理系统 | [项目地址](https://github.com/spacedriveapp/spacedrive) | [教程地址](https://post.smzdm.com/p/aklnd2p8/) | APP/客户端 |
 | Taosync | 同步 | 一款基于alist的自动同步工具 | [项目地址](https://github.com/dr34m-cn/taosync) | [教程地址](https://post.smzdm.com/p/aovx2259/) |  | 
 |  |
@@ -351,6 +356,7 @@
 | Dailycheckin | 签到 | 支持docker、青龙部署的多平台打卡、签到工具 | [项目地址](https://github.com/Sitoi/dailycheckin) | [教程地址](https://mp.weixin.qq.com/s?__biz=MzA4NzMyNzU5Mg==&mid=2453060982&idx=1&sn=c4438804d1aa0aee58bed839970b144a&chksm=87f90b71b08e82675adb3c38462bab33c0fa4b8eacd7884690da6373bb8d7116457ae2563742&token=2114886914&lang=zh_CN#rd) |  |
 | Douyin | 前端 | 完整度超高的抖音前端项目 | [项目地址](https://github.com/zyronon/douyin) | [教程地址](https://post.smzdm.com/p/awo93dzp/) |  |
 | DouyinLiveRecorder | 下载工具 | 支持15+直播平台的自动录制工具 | [项目地址](https://github.com/ihmily/DouyinLiveRecorder) | [教程地址](https://post.smzdm.com/p/am3n6w2p/) |  |
+| instock | 炒股 | InStock股票系统，抓取每日股票、ETF关键数据等，是量化投资的好帮手 | [项目地址](https://github.com/myhhub/stock) | [教程地址](https://post.smzdm.com/p/apm93dlw/) |  |
 | iMaotai | 签到 | 自动预约i茅台 | [项目地址](https://github.com/oddfar/campus-imaotai) | [教程地址](https://post.smzdm.com/p/ag5nlvz7/) |  |
 | Novel-Plus | 建站 | 小说网站建站系统 | [项目地址](https://github.com/201206030/novel-plus) | [教程地址](https://post.smzdm.com/p/aklpvgnk/) |  |
 | Pterodactyl | 建站 | 服务器开服与管理工具，支持近120款游戏一键开服 | [项目地址](https://github.com/pterodactyl/panel) | [教程地址](https://post.smzdm.com/p/a6p7xzwn/) |  |
