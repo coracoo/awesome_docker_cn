@@ -1,19 +1,40 @@
-# 碎碎念
+# 前言
 
-1、本项目为个人收集的可使用docker部署的项目合集，因为我是NAS玩家，喜爱折腾NAS和docker项目，同时经营有自媒体，索性将日常发现、更新的项目进行整合发布，供有需要的朋友查阅。
+1、个人文章汇总，个人收集的可docker部署项目。因为我是NAS玩家，喜爱折腾NAS和docker项目，同时经营有自媒体，索性将日常发现、更新的项目进行整合发布，供有需要的朋友查阅。
 
 2、每一个项目都包含**项目地址**、**部署教程**。因发布时间不同，教程会存在过期、作废等现象，请提issue，有时间我会修改。
 
-3、更新时间不确定，欢迎大家关注我的**公众号**或**首发平台-什么值得买**订阅最新文章。
+3、因个人时间和能力有限，很多优秀的项目都无法及时获取，如果有更好的项目补充的，**可提issue**
 
-什么值得买：https://zhiyou.smzdm.com/member/9674309982/
-
-4、更新记录（不再按名字排序，最新的更新在最下面）：
+4、**更新记录**（不再按名字排序，最新的更新在最下面，并标注⭐New！）：
 
 > 2025.1.21更新
-> 2025.3.13更新了6个项目
+> 
+> 2025.3.13更新了28个项目
 
-5、因个人时间和能力有限，很多优秀的项目都无法及时获取，如果有更好的项目补充的，**可提issue**
+**5、欢迎大家关注，第一时间获得文章推送。**
+
+### 首发平台——什么值得买：
+
+### [⭐点我关注](https://zhiyou.smzdm.com/member/9674309982/) 
+
+### 微信公众号：
+
+![关注](https://github.com/user-attachments/assets/9a1c4de0-2f08-413f-ab7f-d7d463af1698)
+
+---------------------------------
+
+# 联系我：
+
+### QQ交流群：
+
+QQ交流1群：670661706（密码：cherry）
+
+QQ交流2群：938231761（无需密码）
+
+### 微信群
+
+可以通过公众号获取
 
 ---------------------------------
 
@@ -86,7 +107,7 @@
 | 14-NAS OS | 系统介绍 | 介绍14款免费的NAS系统 | 无 | [教程地址](https://post.smzdm.com/p/azomrxmn/) |  |
 | Cosmos-Server | 容器系统 | 一款NAS操作系统，集成应用商城、容器管理、导航栏，着重针对容器间的安全访问策略，实现一个端口访问所有容器 | [项目地址](https://github.com/azukaar/Cosmos-Server) | [教程地址](https://post.smzdm.com/p/an9expp7/) |  |
 | IstoreNAS | NAS系统 | 基于openwrt的开源nas操作系统 | [项目地址](https://fw.koolcenter.com/iStoreNAS/) | [教程地址](https://post.smzdm.com/p/a4x7k2k8/) |  |
-| UmbrelOS | 容器系统 | 一款全新的NAS操作系统，集成应用商城、容器管理、导航栏 | [项目地址](https://github.com/getumbrel/umbrel) | [教程地址](https://post.smzdm.com/p/a5xmk243/) | 官方小主机 |
+| UmbrelOS | 容器系统 | 一款全新的NAS操作系统，集成应用商城、容器管理、导航栏 | [项目地址](https://github.com/getumbrel/umbrel) | [教程地址](https://post.smzdm.com/p/a5xmk243/) |  |
 | fnOS | NAS系统 | 免费的国产NAS操作系统 | [项目地址](https://www.fnnas.com/) | [教程地址](https://post.smzdm.com/p/a5xge4ek/) |  |
 |  |
 
@@ -151,7 +172,6 @@
 | Screego | 协作 | 基于 WebRTC 进行安全传输的屏幕共享 | [项目地址](https://github.com/screego/server) | [教程地址](https://post.smzdm.com/p/a0x5ol58/) |  |
 | Snipe-it | IT | IT设备、设施管理系统 | [项目地址](https://github.com/snipe/snipe-it) | [教程地址](https://post.smzdm.com/p/axovo3q2/) |  |
 | Superset | BI | 免费的BI系统、数据驾驶舱系统 | [项目地址](https://github.com/apache/superset) | [教程地址](https://post.smzdm.com/p/a5x706zk/) |  |
-| Tududi | 项目管理 | 一个极简的开源任务和项目管理工具 | [项目地址](https://github.com/chrisvel/tududi) | [教程地址](https://post.smzdm.com/p/a8p848zn/) |  |
 | Twenty | CRM | 高颜值跨平台的开源CRM项目，核心还在财务和客户管理 | [项目地址](https://github.com/twentyhq/twenty) | [教程地址](https://post.smzdm.com/p/a8pvk290/) | 客户端 |
 | Univer | Office | 支持在线excel、文档、ppt协作，google文档开源替代项目 | [项目地址](https://github.com/dream-num/univer) | [教程地址](https://post.smzdm.com/p/am3nzp5k/) |  |
 | Vikunja | TODO | 支持项目管理、团队管理、任务管理的todo应用，worklite开源替代项目 | [项目地址](https://github.com/go-vikunja/vikunja) | [教程地址](https://post.smzdm.com/p/an9pn760/) |  |
@@ -160,6 +180,7 @@
 | Xiaojusurvey | 问卷 | 针对调查问卷开发的在线问卷系统 | [项目地址](https://github.com/didi/xiaoju-survey) | [教程地址](https://post.smzdm.com/p/adm60wzn/) |  |
 | 卷王 | 问卷 | 开源问卷&在线考试 | [项目地址](https://github.com/xianyu-one/surveyking-docker) | [教程地址](https://post.smzdm.com/p/a5xmwo37/) |  |
 | Leantime | 项目管理 | 面向非项目经理的开源项目管理工具 | [项目地址](https://github.com/Leantime/leantime) | [教程地址](https://post.smzdm.com/p/a0x08moz/) |  |
+| Tududi | 项目管理 | 一个极简的开源任务和项目管理工具 | [项目地址](https://github.com/chrisvel/tududi) | [教程地址](https://post.smzdm.com/p/a8p848zn/) | ⭐New！ |
 |  |
 
 
@@ -174,7 +195,7 @@
 | Habitica | 个人管理 | 将习惯养成变为一种mmoprg游戏，支持职业、武器、宠物、副本等 | [项目地址](https://github.com/HabitRPG/habitica) | [教程地址](https://post.smzdm.com/p/am3g004k/) | APP |
 | Hammond | 个人管理 | 家庭汽车相关费用支出管理 | [项目地址](https://github.com/akhilrex/hammond) | [教程地址](https://post.smzdm.com/p/aqq77xox/) |  |
 | Homebox | 家庭管理 | 家庭用户搭建的库存与物资管理系统。专注于简单性和易用性，是满足您家庭库存、组织和管理需求的完美解决方案 | [项目地址](https://github.com/hay-kot/homebox) | [教程地址](https://post.smzdm.com/p/axo5vm53/) |  |
-| howtocook | 个人管理 | 程序员烧饭手册大全 | [项目地址](https://github.com/Anduin2017/HowToCook) | [教程地址](https://post.smzdm.com/p/aovd0p0m/) |  |
+| Howtocook | 个人管理 | 程序员烧饭手册大全 | [项目地址](https://github.com/Anduin2017/HowToCook) | [教程地址](https://post.smzdm.com/p/aovd0p0m/) |  |
 | Kerberos-agent | 监控 | 开源的监控设备统一管理系统，支持H264/H265的nvif/rtsp协议 | [项目地址](https://github.com/kerberos-io/agent) | [教程地址](https://post.smzdm.com/p/adm355pp/) |  |
 | Manage-my-damn-life | 个人管理 | 个人管理软件psm，用于管理您的 CalDAV 任务和日历 | [项目地址](https://github.com/intri-in/manage-my-damn-life-nextjs) | [教程地址](https://post.smzdm.com/p/aqq5m787/) |  |
 | Manyfold | 兴趣爱好 | 用于管理3D打印机资料的开源项目 | [项目地址](https://github.com/manyfold3d/manyfold) | [教程地址](https://post.smzdm.com/p/awogdx6p/) |  |
@@ -183,6 +204,10 @@
 | Traggo | 个人管理 | 以时间轴为核心的时间分配、管理工具 | [项目地址](https://github.com/traggo/website) | [教程地址](https://post.smzdm.com/p/a6p6x62o/) |  |
 | Wallos | 财务应用 | 针对周期财务、账单进行管理的财务管理系统，支持如自动续费、代扣、过期管理、纪念日等 | [项目地址](https://github.com/ellite/Wallos) | [教程地址](https://post.smzdm.com/p/aklplzd8/) |  |
 | Gramps-web | 家庭管理 | 一款专业的自托管族谱项目 | [项目地址](https://github.com/gramps-project/gramps-web) | [教程地址](https://post.smzdm.com/p/ag53rm93/) |  |
+| GetQzonehistory | 个人管理 | 获取QQ空间发布的历史说说 | [项目地址](https://github.com/LibraHp/GetQzonehistory) | [教程地址](https://post.smzdm.com/p/aqqlrwkk/) | ⭐New！ |
+| Babel-duck | 兴趣爱好 | 一款基于AI的英语口语训练工具 | [项目地址](https://github.com/Orenoid/BabelDuck) | [教程地址](https://post.smzdm.com/p/apr7kz89/) | ⭐New！ |
+| Cashbook | 财务应用 | 支持支付宝、微信、京东金融导入的个人记账工具 | [项目地址](https://github.com/dingdangdog/cashbook) | [教程地址](https://post.smzdm.com/p/anmkqmo0/) | ⭐New！ |
+| DickHelper | 兴趣爱好 | 牛子管理器........ | [项目地址](https://github.com/zzzdajb/DickHelper) | [教程地址](https://post.smzdm.com/p/al9d23dg/) | ⭐New！ |
 |  |
 
 
@@ -194,7 +219,6 @@
 | ChineseSubFinder | 字幕 | 中文字幕下载工具 | [项目地址](https://github.com/ChineseSubFinder/ChineseSubFinder) | [教程地址](https://post.smzdm.com/p/aqq5m787/) |  |
 | Douban-Tool（弃坑） | 影视 | 基于豆瓣想看的BT下载工具 | [项目地址](https://hub.docker.com/r/zack357/douban-tool) | [教程地址](https://post.smzdm.com/p/an94l6nv/) |  |
 | Feishin | 音乐 | 一款高颜值的音乐播放器前端 | [项目地址](https://github.com/jeffvli/feishin) | [教程地址](https://post.smzdm.com/p/a5xvek78/) |  |
-| Guovin_TV | IPTV | IPTV电视直播源更新项目，从Guovin_TV升级而来 | [项目地址](https://github.com/Guovin/iptv-api) | [教程地址](https://post.smzdm.com/p/arrz7p5w/) |  |
 | Namer | 刮削 | 欧美小姐姐作品重命名工具，方便刮削 | [项目地址](https://github.com/ThePornDatabase/namer) | [教程地址](https://post.smzdm.com/p/a5xvek78/) |  |
 | Melody | 音乐 | 基于网易云云盘的音乐下载工具 | [项目地址](https://github.com/olahol/melody) | [教程地址](https://post.smzdm.com/p/awop82zm/) |  |
 | Musicn | 音乐 | mp3音乐下载工具 | [项目地址](https://github.com/zonemeen/musicn) | [教程地址](https://post.smzdm.com/p/a7px95gl/) |  |
@@ -205,9 +229,17 @@
 | Xiaomusic | 音乐 | 小米/红米/小爱音箱第三方口令与音乐下载、播放工具 | [项目地址](https://github.com/hanxi/xiaomusic) | [教程地址](https://post.smzdm.com/p/avpe7n99/) | 基于小米音箱 |
 | Jellyfin | 影视 | N大的jellyfin国人版 | [项目地址](https://github.com/nyanmisaka) | [教程地址](https://post.smzdm.com/p/a7p8v8vl/) |  |
 | Navidrome | 音乐 | NAS上最好的音乐管理服务器 | [项目地址](https://github.com/navidrome/navidrome) | [教程地址](https://post.smzdm.com/p/akldn384/) |  |
-| NextBeats | 音乐 | 一款基于油管的lofi音乐流播放器 | [项目地址](https://github.com/btahir/next-beats) | [教程地址](https://post.smzdm.com/p/a7plrn05/) |  |
 | Music-Tag-Web | 音乐 | 最好用的音乐元数据刮削工具 | [项目地址](https://github.com/xhongc/music-tag-web) | [教程地址](https://post.smzdm.com/p/aovxg0d7/) |  |
 | Emby-Keeper | 影视 | emby公益服保号、注册等 | [项目地址](https://github.com/emby-keeper/emby-keeper) | [教程地址](https://post.smzdm.com/p/am33onqz/) |  |
+| Guovin_TV | IPTV | IPTV电视直播源更新项目，从Guovin_TV升级而来 | [项目地址](https://github.com/Guovin/iptv-api) | [教程地址](https://post.smzdm.com/p/arrz7p5w/) | ⭐New！ |
+| NextBeats | 音乐 | 一款基于油管的lofi音乐流播放器 | [项目地址](https://github.com/btahir/next-beats) | [教程地址](https://post.smzdm.com/p/a7plrn05/) | ⭐New！ |
+| Iptvnator | IPTV | 具有多种功能的跨平台 IPTV 播放器应用程序 | [项目地址](https://github.com/4gray/iptvnator) | [教程地址](https://post.smzdm.com/p/azo9m7do/) | ⭐New！ |
+| auto_symklink | 影音 | 一款创建与更新软链接/strm文件的工具，也可用于解决绿联家庭相册 | [项目地址](https://github.com/shenxianmq/Auto_Symlink) | [教程地址](https://post.smzdm.com/p/a7p3kq9l/) | ⭐New！ |
+| Komga | 漫画 | 漫画、漫画、BD、杂志和电子书的媒体服务器 | [项目地址](https://github.com/gotson/komga) | [教程地址](https://post.smzdm.com/p/arrnv57x/) | ⭐New！ |
+| BangumiKomga | 漫画 | 基于Komga的漫画番剧刮削工具 | [项目地址](https://github.com/chu-shen/BangumiKomga) | [教程地址](https://post.smzdm.com/p/adz53x5p/) | ⭐New！ |
+| LANraragi |漫画 | 同人志阅读工具，拥有多种同人志插件 | [项目地址](https://github.com/Difegue/LANraragi) | [教程地址](https://post.smzdm.com/p/arrnv57x/) | ⭐New！ |
+| Kavita | 电子书 | 一个快速、功能丰富的跨平台阅读服务器 | [项目地址](https://github.com/Kareadita/Kavita) | [教程地址](https://post.smzdm.com/p/arrnv57x/) | ⭐New！ |
+| Calibre-Web | 电子书 | 用于浏览、阅读和下载存储在Calibre中的Web应用 | [项目地址](https://github.com/janeczku/calibre-web) | [教程地址](https://post.smzdm.com/p/arrnv57x/) | ⭐New！ |
 |  |
 
 
@@ -221,6 +253,8 @@
 | JmalCloud | 网盘 | 私有云存储网盘项目，支持本地存储和OSS对象存储，兼容在线office编辑和文件浏览 | [项目地址](https://github.com/jamebal/jmal-cloud-server) | [教程地址](https://post.smzdm.com/p/awoeolxk/) |  |
 | CloudDrive | 网盘 | 将网盘挂载为本地磁盘 | [项目地址](https://hub.docker.com/r/cloudnas/clouddrive2) | [教程地址](https://post.smzdm.com/p/a96e9pr0/) |  |
 | Zfile | 网盘 | 支持17种远程存储的网盘汇聚项目 | [项目地址](https://github.com/zfile-dev/zfile) | [教程地址](https://post.smzdm.com/p/avpx4npn/) |  |
+| 蓝眼云盘 | 网盘 | 一个优雅，好用，高效，克制的开源云盘 | [项目地址](https://tank-doc.eyeblue.cn/zh/basic/) | [教程地址](https://post.smzdm.com/p/ag522nl6/) | ⭐New！ |
+| Zpan | 网盘 | 基于S3、云存储的网盘项目 | [项目地址](https://github.com/saltbo/zpan) | [教程地址](https://post.smzdm.com/p/aqq2zzdv/) | ⭐New！ |
 |  |
 
 
@@ -255,9 +289,12 @@
 | LocalAI | AI | 完全离线运行的本地AI大模型系统，支持抱脸虫上的各类库，支持api输出 | [项目地址](https://github.com/mudler/LocalAI) | [教程地址](https://post.smzdm.com/p/a3x3qngr/) |  |
 | Penpot | 生产力 | 好用好看的原型设计软件，Kaleidos的平替项目 | [项目地址](https://github.com/penpot/penpot) | [教程地址](https://post.smzdm.com/p/am3noxek/) |  |
 | QChatGPT | 机器人 | 支持AI接入的QQ/QQ频道/OneBot 机器人平台 | [项目地址](https://github.com/RockChinQ/QChatGPT) | [教程地址](https://post.smzdm.com/p/ag5z6lv6/) |  |
-| Rustpad | 生产力 | 一款开源协作文本编辑器，支持在浏览器中编写代码时进行实时协作 | [项目地址](https://github.com/ekzhang/rustpad) | [教程地址](https://post.smzdm.com/p/a2xp63vp/) |  |
 | Windows-docker | 生产力 | 在docker容器中运行windows系统 | [项目地址](https://github.com/dockur/windows) | [教程地址](https://post.smzdm.com/p/arre448q/) |  |
 | MinIO | 生产力 | 一款兼容S3的自托管对象存储 | [项目地址](https://github.com/minio/minio) | [教程地址](https://post.smzdm.com/p/apmmgo02/) |  |
+| Rustpad | 生产力 | 一款开源协作文本编辑器，支持在浏览器中编写代码时进行实时协作 | [项目地址](https://github.com/ekzhang/rustpad) | [教程地址](https://post.smzdm.com/p/a2xp63vp/) | ⭐New！ |
+| Open-webui | AI应用 | 友好易用的AI web管理页面 | [项目地址](https://github.com/open-webui/open-webui) | [教程地址](https://post.smzdm.com/p/ard3lrzz/) | ⭐New！ |
+| Chatgpt-on-Wechat | AI应用 | 基于大模型搭建的聊天机器人，同时支持微信公众号、企业微信应用、飞书、钉钉等接入 | [项目地址](https://github.com/zhayujie/chatgpt-on-wechat) | [教程地址](https://post.smzdm.com/p/anme5enp/) | ⭐New！ |
+| Dify | AI应用 | Dify 是一个开源LLM的应用程序开发平台 | [项目地址](https://github.com/langgenius/dify) | [教程地址](https://post.smzdm.com/p/ae59937k/) | ⭐New！ |
 |  |
 
 
@@ -281,7 +318,7 @@
 | Blinko | 个人笔记 | 以AI为驱动核心的个人笔记工具 | [项目地址](https://github.com/blinko-space/blinko) | [教程地址](https://post.smzdm.com/p/a8pqznm6/) |  |
 | Freshrss | RSS | 一个免费的，可自托管的新闻聚合器 | [项目地址](https://github.com/FreshRSS/FreshRSS) | [教程地址](https://post.smzdm.com/p/a6p9vkvo/) |  |
 | Wiki.js | RSS | 基于js的高颜值wiki项目 | [项目地址](https://github.com/requarks/wiki) | [教程地址](https://post.smzdm.com/p/a5xrgv0x/) |  |
-
+| 小书匠 | 个人笔记 | 支持选择性同步的全平台覆盖知识管理笔记软件 | [项目地址](https://github.com/suziwen/markdownxiaoshujiang?tab=readme-ov-file) | [教程地址](https://post.smzdm.com/p/al8zk2d0/) | ⭐New！ |
 |  |
 
 
@@ -294,9 +331,10 @@
 | FreeFileSync | 同步 | 一款文件夹比较和同步软件，可创建和管理所有重要文件的备份副本  | [项目地址](https://github.com/jlesage/docker-freefilesync) | [教程地址](https://post.smzdm.com/p/aov74pkr//) |  |
 | MicroBin | 共享 | 稍后阅读，可设置次数、时间的资料共享 Web 应用程序 | [项目地址](https://github.com/szabodanika/microbin) | [教程地址](https://post.smzdm.com/p/apm2mo8x/) |  |
 | Verysync | 同步 | 微力同步，全平台的文件同步工具 | [项目地址](https://github.com/Jonnyan404/verysync) | [教程地址](https://post.smzdm.com/p/a96e832p/) |  |
-| QuickDrop | 文件共享 | 一款易于使用的文件共享应用程序，允许用户在没有帐户的情况下共享 | [项目地址](https://github.com/RoastSlav/quickdrop) | [教程地址](https://post.smzdm.com/p/a3x875pn/) |  |
 | Spacedrive | 文件管理 | 跨平台文件管理系统 | [项目地址](https://github.com/spacedriveapp/spacedrive) | [教程地址](https://post.smzdm.com/p/aklnd2p8/) | APP/客户端 |
 | Taosync | 同步 | 一款基于alist的自动同步工具 | [项目地址](https://github.com/dr34m-cn/taosync) | [教程地址](https://post.smzdm.com/p/aovx2259/) |  | 
+| QuickDrop | 文件共享 | 一款易于使用的文件共享应用程序，允许用户在没有帐户的情况下共享 | [项目地址](https://github.com/RoastSlav/quickdrop) | [教程地址](https://post.smzdm.com/p/a3x875pn/) | ⭐New！ |
+| Video-duplicate-finder | 文件去重 | video-duplicat的docker部署版本 | [项目地址](https://github.com/jlesage/docker-video-duplicate-finder) | [教程地址](https://post.smzdm.com/p/a3xqq4qk/) | ⭐New！ |
 |  |
 
 
@@ -331,7 +369,6 @@
 
 | 项目名称 | 类型 | 介绍 | 项目地址 | 教程地址 | 备注 |
 |:--- |:--- |:--- |:--- |:--- |:---  |
-| 项目名称 | 类型 | 介绍 | 项目地址 | 教程地址 | 备注 |
 | DNF | 游戏 | 一款老版本的DNF私服 | [项目地址](https://github.com/1995chen/dnf ) | [教程地址](https://post.smzdm.com/p/a8pnw860/) |  |
 | Docker-Minecraft-Server | 游戏 | 专门运行在docker里的minecraft（Java 版）社区服务器 | [项目地址](https://github.com/itzg/docker-minecraft-server) | [教程地址](https://post.smzdm.com/p/arr4q90q/) |  |
 | Karaoke-eternal | 游戏 | 一款以KTV氛围设计的卡拉ok软件 | [项目地址](https://github.com/bhj/KaraokeEternal) | [教程地址](https://post.smzdm.com/p/arr4q90q/) |  |
@@ -353,10 +390,9 @@
 | Acg-Faka | 建站 | acg-faka是一款二次元风格的卡券管理平台 | [项目地址](https://github.com/lizhipay/acg-faka) | [教程地址](https://post.smzdm.com/p/a4xvkmkk/) |  |
 | Bar-Assistant | 酒吧管理 | 包含鸡尾酒做法、库存管理 | [项目地址](https://github.com/karlomikus/bar-assistant) | [教程地址](https://post.smzdm.com/p/a8pnr7o0/) | |
 | C-shopping | 商城 | 完整的在线商城系统，支持app、小程序等 | [项目地址](https://github.com/huanghanzhilian/c-shopping) | [教程地址](https://post.smzdm.com/p/aeq0w253/) | app/小程序 |
-| Dailycheckin | 签到 | 支持docker、青龙部署的多平台打卡、签到工具 | [项目地址](https://github.com/Sitoi/dailycheckin) | [教程地址](https://mp.weixin.qq.com/s?__biz=MzA4NzMyNzU5Mg==&mid=2453060982&idx=1&sn=c4438804d1aa0aee58bed839970b144a&chksm=87f90b71b08e82675adb3c38462bab33c0fa4b8eacd7884690da6373bb8d7116457ae2563742&token=2114886914&lang=zh_CN#rd) |  |
+| Dailycheckin | 签到 | 支持docker、青龙部署的多平台打卡、签到工具 | [项目地址](https://github.com/Sitoi/dailycheckin) | [教程地址](https://mp.weixin.qq.com/s/NP6iaRTvdwoal-pBM_XXzA/) |  |
 | Douyin | 前端 | 完整度超高的抖音前端项目 | [项目地址](https://github.com/zyronon/douyin) | [教程地址](https://post.smzdm.com/p/awo93dzp/) |  |
 | DouyinLiveRecorder | 下载工具 | 支持15+直播平台的自动录制工具 | [项目地址](https://github.com/ihmily/DouyinLiveRecorder) | [教程地址](https://post.smzdm.com/p/am3n6w2p/) |  |
-| instock | 炒股 | InStock股票系统，抓取每日股票、ETF关键数据等，是量化投资的好帮手 | [项目地址](https://github.com/myhhub/stock) | [教程地址](https://post.smzdm.com/p/apm93dlw/) |  |
 | iMaotai | 签到 | 自动预约i茅台 | [项目地址](https://github.com/oddfar/campus-imaotai) | [教程地址](https://post.smzdm.com/p/ag5nlvz7/) |  |
 | Novel-Plus | 建站 | 小说网站建站系统 | [项目地址](https://github.com/201206030/novel-plus) | [教程地址](https://post.smzdm.com/p/aklpvgnk/) |  |
 | Pterodactyl | 建站 | 服务器开服与管理工具，支持近120款游戏一键开服 | [项目地址](https://github.com/pterodactyl/panel) | [教程地址](https://post.smzdm.com/p/a6p7xzwn/) |  |
@@ -364,7 +400,9 @@
 | Zyplayer-doc | 建站 | 团队、个人知识库、文档管理工具，支持付费阅读 | [项目地址](https://doc.zyplayer.com/) | [教程地址](https://post.smzdm.com/p/a3x96d77/) |  |
 | 独角数卡 | 商城 | 一款自动发卡、售卡的在线商城项目 | [项目地址](https://github.com/assimon/dujiaoka) | [教程地址](https://post.smzdm.com/p/a3xk5e3d/) |  |
 | 魔豆文库 | 建站 | 开源版百度文库系统，支持知识付费 | [项目地址](https://github.com/mnt-ltd/moredoc) | [教程地址](https://post.smzdm.com/p/a6pgrkxo/) | pro收费 |
-| Quark-Auto-Save | 签到 | 夸克自动签到工具 | [项目地址](https://github.com/Cp0204/quark-auto-save) | [教程地址](https://post.smzdm.com/p/arrp8oew/) |  |
+| Quark--Save | 签到 | 夸克自动签到工具 | [项目地址](https://github.com/Cp0204/quark-auto-save) | [教程地址](https://post.smzdm.com/p/arrp8oew/) |  |
+| instock | 炒股 | InStock股票系统，抓取每日股票、ETF关键数据等，是量化投资的好帮手 | [项目地址](https://github.com/myhhub/stock) | [教程地址](https://post.smzdm.com/p/apm93dlw/) | ⭐New！ |
+| SyncTV | 建站 | 一款在线视频播放平台，同步观看、影院、直播、视频 | [项目地址](https://github.com/synctv-org/synctv) | [教程地址](https://post.smzdm.com/p/az7w922r/) | ⭐New！ |
 |  |
 
 
@@ -403,22 +441,15 @@
 | WatchYourPorts | 网络 | 一款局域网端口查找工具 | [项目地址](https://github.com/aceberg/WatchYourPorts) | [教程地址](https://post.smzdm.com/p/awodev3p/) |  |
 | Lucky | 网络 | 一款多用途的网络管理和反代工具 | [项目地址](https://github.com/gdy666/lucky) | [教程地址](https://post.smzdm.com/p/a5xdnknk/) |  |
 | Frp-Panel | 网络 | frp集中管理平台，支持部署frpc\frps节点 | [项目地址](https://github.com/VaalaCat/frp-panel) | [教程地址](https://post.smzdm.com/p/aovgmqq7/) |  |
-| Certimate | SSL | 一款SSL证书自动续签工具 | [项目地址](https://github.com/usual2970/certimate) | [教程地址](https://post.smzdm.com/p/axok7wv3//) |  |
+| Certimate | SSL | 一款SSL证书自动续签工具 | [项目地址](https://github.com/usual2970/certimate) | [教程地址](https://post.smzdm.com/p/axok7wv3/) |  |
+| Oray | 网络 | 贝锐花生壳，一款免端口内网穿透工具 | [官网地址](https://hsk.oray.com/) | [教程地址](https://post.smzdm.com/p/aov6qgwr/) | ⭐New！ |
+| 内链通 | 网络 | 一款基于STUN的内网穿透工具 | [官网地址](https://mi-d.cn/10963) | [教程地址](https://post.smzdm.com/p/a5x244ex/) | ⭐New！ |
+| 比扬云 | 网络 | 一款基于SD-WAN，从2B到2C的异地组网工具 | [官网地址](https://www.beyondnetwork.net/) | [教程地址](https://post.smzdm.com/p/adz68x7p/) | ⭐New！ |
 |  |
 
+
 ---------------------------------
-# 联系我：
 
-### 微信公众号：
+## Star History
 
-![关注](https://github.com/user-attachments/assets/9a1c4de0-2f08-413f-ab7f-d7d463af1698)
-
-### QQ交流群：
-
-QQ交流1群：670661706
-
-QQ交流2群：938231761
-
-### 微信群
-
-可以通过公众号获取
+[![Star History Chart](https://api.star-history.com/svg?repos=coracoo/awesome_docker_cn&type=Date)](https://www.star-history.com/#coracoo/awesome_docker_cn&Date)
