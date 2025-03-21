@@ -219,7 +219,7 @@ QQ交流2群：938231761（无需密码）
 | ChineseSubFinder | 字幕 | 中文字幕下载工具 | [项目地址](https://github.com/ChineseSubFinder/ChineseSubFinder) | [教程地址](https://post.smzdm.com/p/aqq5m787/) |  |
 | Douban-Tool（弃坑） | 影视 | 基于豆瓣想看的BT下载工具 | [项目地址](https://hub.docker.com/r/zack357/douban-tool) | [教程地址](https://post.smzdm.com/p/an94l6nv/) |  |
 | Feishin | 音乐 | 一款高颜值的音乐播放器前端 | [项目地址](https://github.com/jeffvli/feishin) | [教程地址](https://post.smzdm.com/p/a5xvek78/) |  |
-| Namer | 刮削 | 欧美小姐姐作品重命名工具，方便刮削 | [项目地址](https://github.com/ThePornDatabase/namer) | [教程地址](https://post.smzdm.com/p/a5xvek78/) |  |
+| Namer | 刮削 | 欧美小姐姐作品重命名工具，方便刮削 | [项目地址](https://github.com/ThePornDatabase/namer) | [教程地址](https://post.smzdm.com/p/awop82zm/) |  |
 | Melody | 音乐 | 基于网易云云盘的音乐下载工具 | [项目地址](https://github.com/olahol/melody) | [教程地址](https://post.smzdm.com/p/awop82zm/) |  |
 | Musicn | 音乐 | mp3音乐下载工具 | [项目地址](https://github.com/zonemeen/musicn) | [教程地址](https://post.smzdm.com/p/a7px95gl/) |  |
 | Movie-Web | 影视 |  | 已删库 | [教程地址](https://post.smzdm.com/p/arr4q90q/) |  |
