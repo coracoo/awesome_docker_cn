@@ -414,7 +414,7 @@ QQ交流2群：938231761（无需密码）
 | Genact | 工具 | 假装你一直在敲代码的网页版docker | [项目地址](https://github.com/svenstaro/genact) | [教程地址](https://post.smzdm.com/p/apm8nen0/) |  |
 | It-tools | 工具 | 在线IT工具箱 | [项目地址](https://github.com/CorentinTh/it-tools) | [教程地址](https://post.smzdm.com/p/aovl8lo7/) |  |
 | Stirling-PDF | 工具 | 在线PDF转换与管理 | [项目地址](https://github.com/Stirling-Tools/Stirling-PDF) | [教程地址](https://post.smzdm.com/p/aovl8lo7/) |  |
-| Iyuuplus-des | PT | 用于PT种子转种、辅种 | [项目地址](https://github.com/ledccn/iyuuplus-dev) | [教程地址](https://post.smzdm.com/p/an9doeq7/) |  |
+| Iyuuplus-dev | PT | 用于PT种子转种、辅种 | [项目地址](https://github.com/ledccn/iyuuplus-dev) | [教程地址](https://post.smzdm.com/p/an9doeq7/) |  |
 | N.eko | 浏览器 | 基于webRTC的嵌套浏览器 | [项目地址](https://github.com/m1k1o/neko-rooms) | [教程地址](https://post.smzdm.com/p/awogdx6p/) |  |
 | Photopea | 绘图 | 在线PS | [项目地址](https://github.com/DUOLabs333/Photopea-Offline) | [教程地址](https://post.smzdm.com/p/aovl8lo7/) |  |
 | RustDesk | 远程 | 自托管的远程控制工具 | [项目地址](https://github.com/rustdesk/rustdesk) | [教程地址](https://post.smzdm.com/p/ag56xz76/) |  |
