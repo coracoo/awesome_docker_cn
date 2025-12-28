@@ -303,7 +303,7 @@ QQ交流2群：938231761（无需密码）
 | Open-webui | AI应用 | 友好易用的AI web管理页面 | [项目地址](https://github.com/open-webui/open-webui) | [教程地址](https://post.smzdm.com/p/ard3lrzz/) | ⭐New！ |
 | Chatgpt-on-Wechat | AI应用 | 基于大模型搭建的聊天机器人，同时支持微信公众号、企业微信应用、飞书、钉钉等接入 | [项目地址](https://github.com/zhayujie/chatgpt-on-wechat) | [教程地址](https://post.smzdm.com/p/anme5enp/) | ⭐New！ |
 | Dify | AI应用 | Dify 是一个开源LLM的应用程序开发平台 | [项目地址](https://github.com/langgenius/dify) | [教程地址](https://post.smzdm.com/p/ae59937k/) | ⭐New！ |
-|  |
+| MaxKB | AI应用 |MaxKB 是一款强大易用的企业级 AI 助手，支持 RAG 检索增强生成、工作流编排、MCP 工具调用能力 国产飞致云出品对标Dify| [项目地址](https://github.com/1Panel-dev/MaxKB) | [教程地址](https://maxkb.cn/docs/) | ⭐New！ |
 
 
 ## 知识库管理
@@ -379,6 +379,7 @@ QQ交流2群：938231761（无需密码）
 |:--- |:--- |:--- |:--- |:--- |:---  |
 | DNF | 游戏 | 一款老版本的DNF私服 | [项目地址](https://github.com/1995chen/dnf ) | [教程地址](https://post.smzdm.com/p/a8pnw860/) |  |
 | Docker-Minecraft-Server | 游戏 | 专门运行在docker里的minecraft（Java 版）社区服务器 | [项目地址](https://github.com/itzg/docker-minecraft-server) | [教程地址](https://post.smzdm.com/p/arr4q90q/) |  |
+| gameserver_containe | 游戏 | 运行在Linux一个容器搞定几乎所有steam开服需求 | [项目地址](https://github.com/yxsj245/gameserver_container)| [教程地址](http://blogpage.xiaozhuhouses.asia/html4/index.html#/) |  |
 | Karaoke-eternal | 游戏 | 一款以KTV氛围设计的卡拉ok软件 | [项目地址](https://github.com/bhj/KaraokeEternal) | [教程地址](https://post.smzdm.com/p/arr4q90q/) |  |
 | Palworld | 娱乐 | 幻兽帕鲁的服务器搭建docker | [项目地址](https://github.com/jammsen/docker-palworld-dedicated-server) | [教程地址](https://post.smzdm.com/p/aeqgp8wk/) |  |
 | Pokerogue | 游戏 | PokéRogue 是一款基于浏览器的神奇宝贝同人游戏，深受 Roguelite 类型的启发。 | [项目地址](https://github.com/pagefaultgames/pokerogue) | [教程地址](https://post.smzdm.com/p/a3xnnn5k/) |  |
