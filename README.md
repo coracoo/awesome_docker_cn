@@ -92,6 +92,9 @@ QQ交流2群：938231761（无需密码）
 
 ## docker管理
 
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Real-time AI agent monitoring dashboard for OpenClaw. Tracks Gateway status, sessions, token usage & trends with Vue 3 + ECharts.
+
+
 | 项目名称 | 类型 | 介绍 | 项目地址 | 教程地址 | 备注 |
 |:--- |:--- |:--- |:--- |:--- |:---  |
 | Amprobe | docker管理 | docker可视化监控与管理工具 | [项目地址](https://github.com/amuluze/amprobe) | [教程地址](https://post.smzdm.com/p/apm4798w/) |  |
