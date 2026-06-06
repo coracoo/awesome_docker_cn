@@ -101,7 +101,7 @@ QQ交流2群：938231761（无需密码）
 | Dockge | docker管理 | docker-compose可视化管理 | [项目地址](https://github.com/louislam/dockge) | [教程地址](https://post.smzdm.com/p/am3dq2gd/) |  |
 | Docu | docker管理 | docker存储空间使用量分析和管理工具 | [项目地址](https://github.com/amerkurev/doku) | [教程地址](https://post.smzdm.com/p/awoepv8p/) |  |
 | DweebUI | docker管理 | 内置商城的docker可视化管理页面 | [项目地址](https://github.com/lllllllillllllillll/DweebUI) | [教程地址](https://post.smzdm.com/p/a4xr8nlx/) |  |
-| Watchtower | docker管理 | docker镜像自动更新服务 | [项目地址](https://github.com/containrrr/watchtower) | [教程地址](https://post.smzdm.com/p/aeqx5z3k/) |  |
+| Watchtower | docker管理 | docker镜像自动更新服务（原 containrrr 仓库已归档，此为活跃维护的 fork） | [项目地址](https://github.com/openserbia/watchtower) | [教程地址](https://post.smzdm.com/p/aeqx5z3k/) |  |
 | What's up docker | docker管理 | docker镜像升级提醒 | [项目地址](https://github.com/fmartinou/whats-up-docker) | [教程地址](https://post.smzdm.com/p/a3xkedwk/) |  |
 | Yacht | docker管理 | docker可视化管理 | [项目地址](https://github.com/SelfhostedPro/Yacht) | [教程地址](https://post.smzdm.com/p/arr493pg/) |  |
 | Docker copilot | docker管理 | 绿联极空间docker管理工具 | [项目地址](https://github.com/onlyLTY/dockerCopilot) | [教程地址](https://post.smzdm.com/p/a8pxeopl/) |  |
