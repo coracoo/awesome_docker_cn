@@ -297,6 +297,7 @@ QQ交流2群：938231761（无需密码）
 | LocalAI | AI | 完全离线运行的本地AI大模型系统，支持抱脸虫上的各类库，支持api输出 | [项目地址](https://github.com/mudler/LocalAI) | [教程地址](https://post.smzdm.com/p/a3x3qngr/) |  |
 | Penpot | 生产力 | 好用好看的原型设计软件，Kaleidos的平替项目 | [项目地址](https://github.com/penpot/penpot) | [教程地址](https://post.smzdm.com/p/am3noxek/) |  |
 | QChatGPT | 机器人 | 支持AI接入的QQ/QQ频道/OneBot 机器人平台 | [项目地址](https://github.com/RockChinQ/QChatGPT) | [教程地址](https://post.smzdm.com/p/ag5z6lv6/) |  |
+| qq-ai-bot | 机器人 | 面向 NapCat / LLOneBot 的 QQ ↔ AI 机器人，支持 OneBot 11、ACP agent、会话持久化、进度回传，可 Docker 部署。 | [项目地址](https://github.com/happysnaker/qq-ai-bot) | [教程地址](https://happysnaker.github.io/qq-ai-bot/) | QQ / OneBot / Docker |
 | Windows-docker | 生产力 | 在docker容器中运行windows系统 | [项目地址](https://github.com/dockur/windows) | [教程地址](https://post.smzdm.com/p/arre448q/) |  |
 | MinIO | 生产力 | 一款兼容S3的自托管对象存储 | [项目地址](https://github.com/minio/minio) | [教程地址](https://post.smzdm.com/p/apmmgo02/) |  |
 | Rustpad | 生产力 | 一款开源协作文本编辑器，支持在浏览器中编写代码时进行实时协作 | [项目地址](https://github.com/ekzhang/rustpad) | [教程地址](https://post.smzdm.com/p/a2xp63vp/) | ⭐New！ |
